@@ -4,9 +4,8 @@
 
 > Projeto Feito com Java Swing.
 
-Projeto construído à partir do desafio sugerido pela Faculdade Flamingo.
-
-[Clique aqui para acessar](https://femunniz.github.io/Java_Swing/)
+Projeto construído à partir do desafio sugerido pelo professor Jailson Santos na Faculdade Flamingo.
+Este projeto foi desenvolvido através da plataforma NetBeans IDE 14.
 
 # Tecnologias Utilizadas.
 
